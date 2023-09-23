@@ -113,8 +113,4 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 Contributions are welcome! If you have any ideas, suggestions, or improvements, please open an issue or submit a pull request.
 
-## Contact
-
-For any inquiries or feedback, please contact [moslihbadr2@gmail.com](mailto:moslihbadr2@gmail.com).
-
 Happy blogging!
